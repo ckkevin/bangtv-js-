@@ -7,7 +7,7 @@ proxy-tel-s.alicdn.com/f/pcdn*
 sdkapi.douyucdn.cn/p2p*
 p2p*.douyucdn*
 *ourdvsss.com*/p2p*
-！广告联盟
+! 广告联盟
 */51ads/
 @@||img05.zhaopin.cn/2014/common/js/za/ga.js
 */ga.js^
@@ -41,7 +41,7 @@ p2p*.douyucdn*
 */tj.js|
 */tongji.js|$domain=~zongheng.com
 
-！360
+! 360
 ||tf.360.cn/
 www.so.com##div.e-buss
 ||www.so.com/paOScore/ads
